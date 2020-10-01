@@ -33,6 +33,8 @@ public class Mycontact
                 n=n.next;
             }}
     }
+    
+    #adding bekaar ka comment
     void view(String[] a){
         for (int i = 0; i <a.length ; i++) {
             Mynode n=head;
